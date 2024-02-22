@@ -10,7 +10,7 @@ public static int subtract(int op1, int op2) {
 	return op1 - op2;
 }
 public static int multiply(int op1, int op2) {
-	
+	//
 	return op1 * op2;
 }
 public static int divide(int op1, int op2) {
